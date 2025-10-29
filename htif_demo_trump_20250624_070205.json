@@ -1,0 +1,92 @@
+{
+  "message": "Demo-Ergebnis geladen",
+  "record_count": 5,
+  "csv_url": "",
+  "modules_run": {
+    "quote_extraction": "success",
+    "emotion_analysis": "success",
+    "irony_detect": "success",
+    "framing_detect": "success",
+    "ambivalence_score": "success",
+    "stance_detection": "success",
+    "kpi_calculate": "success"
+  },
+  "preprocessing": {
+    "original_total": 5,
+    "removed_entries": 0,
+    "warnings_flagged": 0,
+    "final_total": 5
+  },
+  "data": [
+    {
+      "text": "Sure, let\u2019s trust a guy who thinks climate change is a Chinese hoax. Brilliant.",
+      "quote": "let\u2019s trust a guy who thinks climate change is a Chinese hoax",
+      "emotion": "sarcasm, disbelief",
+      "irony": true,
+      "framing": [
+        "Anti-science",
+        "Global denial"
+      ],
+      "stance": "critical",
+      "ambivalence_score": 0.76,
+      "quote_density": 0.88,
+      "resonance_score": 0.81
+    },
+    {
+      "text": "Trump tells it like it is. Finally someone not afraid to speak truth.",
+      "quote": "Finally someone not afraid to speak truth",
+      "emotion": "admiration",
+      "irony": false,
+      "framing": [
+        "Truth vs Elites",
+        "Anti-Establishment"
+      ],
+      "stance": "supportive",
+      "ambivalence_score": 0.12,
+      "quote_density": 0.65,
+      "resonance_score": 0.72
+    },
+    {
+      "text": "\u2018Law and Order\u2019 \u2013 unless it\u2019s his friends. Hypocrisy at its finest.",
+      "quote": "\u2018Law and Order\u2019 \u2013 unless it\u2019s his friends",
+      "emotion": "disillusionment, frustration",
+      "irony": true,
+      "framing": [
+        "Double Standards",
+        "Power Abuse"
+      ],
+      "stance": "critical",
+      "ambivalence_score": 0.69,
+      "quote_density": 0.77,
+      "resonance_score": 0.75
+    },
+    {
+      "text": "Still better than the career politicians who never did anything.",
+      "quote": "better than the career politicians",
+      "emotion": "resentment, hope",
+      "irony": false,
+      "framing": [
+        "Outsider vs System",
+        "Hope for Change"
+      ],
+      "stance": "supportive",
+      "ambivalence_score": 0.34,
+      "quote_density": 0.61,
+      "resonance_score": 0.68
+    },
+    {
+      "text": "Every tweet was a chaos grenade. Entertaining? Yes. Responsible? No.",
+      "quote": "Every tweet was a chaos grenade",
+      "emotion": "entertainment, concern",
+      "irony": true,
+      "framing": [
+        "Populism",
+        "Spectacle"
+      ],
+      "stance": "ambivalent",
+      "ambivalence_score": 0.82,
+      "quote_density": 0.91,
+      "resonance_score": 0.83
+    }
+  ]
+}

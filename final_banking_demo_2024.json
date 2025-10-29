@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "title": "Bankendiskurs: Inflation & Vertrauen",
+    "topic": "finance",
+    "source": "synthetische Demodaten (basierend auf realitätsnahen Beispielen)",
+    "date": "2024-04",
+    "comments_analyzed": 500,
+    "description": "Simulierte Analyse öffentlicher Kommentare zur Inflation und dem Vertrauen in Banken. Erstellt zur Demonstration der HTIF-Funktionalität.",
+    "generated_on": "2025-06-24T09:33:46.368881",
+    "note": "Hinweis: Diese Analyse basiert auf synthetisch erstellten Demodaten. Eine Auswertung echter Online-Diskurse ist technisch möglich (z. B. via YouTube API oder CSV-Upload)."
+  },
+  "data": [
+    {
+      "text": "Danke EZB, jetzt kann ich mir wenigstens noch ein Brot leisten 🙃",
+      "ambivalence_score": 0.87,
+      "quote_density": 0.91,
+      "resonance_score": 0.72
+    },
+    {
+      "text": "Die Banken erklären uns, warum alles teurer wird – sehr beruhigend.",
+      "ambivalence_score": 0.75,
+      "quote_density": 0.82,
+      "resonance_score": 0.69
+    },
+    {
+      "text": "Versteht hier eigentlich noch jemand, wie das alles funktionieren soll?",
+      "ambivalence_score": 0.63,
+      "quote_density": 0.70,
+      "resonance_score": 0.72
+    }
+  ],
+  "roles_detected": [
+    "ohnmächtige Bürger:innen",
+    "institutionelle Profiteure"
+  ],
+  "frame_shift_summary": "Vom Thema Zinsen hin zu Misstrauen gegenüber Finanzinstitutionen"
+}

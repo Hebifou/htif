@@ -1,0 +1,4 @@
+clients:
+  acme_corp: "abc123securekey"
+  gov_research: "govkey456"
+  myteam: "localdevkey"

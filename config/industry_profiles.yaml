@@ -1,0 +1,66 @@
+default:
+  modules:
+    - quote_extraction
+    - emotion_analysis
+    - irony_detect
+    - stance_detection
+    - framing_detect
+    - moral_detect
+    - identity_analysis
+    - verbal_aggression_detect
+    - narrative_roles
+    - narrative_clusters
+    - kpi_calculate
+    - insights   # 👈 hinzugefügt
+
+klima:
+  modules:
+    - quote_extraction
+    - emotion_analysis
+    - stance_detection
+    - moral_detect
+    - narrative_roles
+    - kpi_calculate
+    - insights   # 👈 hinzugefügt
+
+politik:
+  modules:
+    - quote_extraction
+    - emotion_analysis
+    - irony_detect
+    - stance_detection
+    - framing_detect
+    - moral_detect
+    - verbal_aggression_detect
+    - insights   # 👈 hinzugefügt
+
+musik:
+  modules:
+    - emotion_analysis
+    - stance_detection
+    - framing_detect
+    - insights   # 👈 hinzugefügt
+
+media:
+  modules:
+    - emotion_analysis
+    - irony_detect
+    - framing_detect
+    - verbal_aggression_detect
+    - narrative_roles
+    - insights   # 👈 hinzugefügt
+
+finance:
+  modules:
+    - emotion_analysis
+    - stance_detection
+    - verbal_aggression_detect
+    - kpi_calculate
+    - insights   # 👈 hinzugefügt
+
+film:
+  modules:
+    - emotion_analysis
+    - framing_detect
+    - moral_detect
+    - insights   # 👈 hinzugefügt

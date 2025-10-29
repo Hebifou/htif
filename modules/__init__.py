@@ -1,0 +1,1 @@
+from modules.quotes.quote_extraction import add_quotes_to_entries

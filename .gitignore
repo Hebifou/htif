@@ -1,0 +1,48 @@
+# --- Python / Virtual Env ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# --- IDE / Config ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- System ---
+.DS_Store
+Thumbs.db
+
+# --- Streamlit / Cache ---
+.streamlit/
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# --- Data / Output ---
+data/*.csv
+data/*.numbers
+data/*.xlsx
+data/*.json
+output/
+!data/htif_klima_demo_50.csv
+!data/htif_klima_dummy.csv
+!data/htif_demo_tesla_20250624_072309.json
+!data/htif_demo_trump_20250624_070205.json
+!data/final_banking_demo_2024.json
+
+# --- Large model / libs ---
+*.dylib
+*.pkl
+*.pt
+*.bin
+*.ckpt
+
+# --- Logs / Misc ---
+logs/
+*.log
