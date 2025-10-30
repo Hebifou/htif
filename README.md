@@ -1,4 +1,4 @@
-# HTIF – How The Internet Feels  
+HTIF – How The Internet Feels  
 **Diskursradar statt Datenrauschen.**  
 Mapping the emotional landscape of the internet through AI.
 
@@ -6,19 +6,19 @@ Mapping the emotional landscape of the internet through AI.
 
 ---
 
-## Overview
+Overview
 
-**HTIF (How The Internet Feels)** is an AI-based system that explores how digital culture feels — not just what it says.  
+HTIF (How The Internet Feels) is an AI-based system that explores how digital culture feels — not just what it says.  
 
 It reveals emotional dynamics, cultural signals, and narrative shifts hidden in online conversations.
 
-HTIF measures **resonance, ambivalence, and meaning.**  
+HTIF measures resonance, ambivalence, and meaning.  
 
-It’s designed for brands, media, and researchers who want to understand the *why* behind public reaction.
+It’s designed for brands, media, and researchers who want to understand the why behind public reaction.
 
 ---
 
-## What HTIF Does
+What HTIF Does
 
 - Reveals emotional and narrative patterns in digital discourse  
 - Translates online commentary into actionable cultural insights  
@@ -29,23 +29,23 @@ It’s designed for brands, media, and researchers who want to understand the *w
 
 ---
 
-## Live Prototype
+Live Prototype
 
-[**Launch the HTIF Demo**](https://htif-demo.streamlit.app)
+[Launch the HTIF Demo**](https://htif-demo.streamlit.app)
 
 > The demo runs entirely in safe mode — no live or personal data is collected.  
 > All analyses use uploaded or preloaded datasets.
 
 ---
 
-## Use Cases
+Use Cases
 
-- **Cultural & Media Analysis** – map discursive shifts and emotional currents  
-- **Brand Strategy** – decode resonance and meaning in audience reactions  
-- **Crisis Communication** – detect polarization, irony, and moral framing early  
-- **Research & Policy** – trace how narratives evolve across digital publics  
+- Cultural & Media Analysis – map discursive shifts and emotional currents  
+- Brand Strategy – decode resonance and meaning in audience reactions  
+- Crisis Communication – detect polarization, irony, and moral framing early  
+- Research & Policy – trace how narratives evolve across digital publics  
 
 ---
 
-© 2025 **How The Internet Feels**  
+© 2025 How The Internet Feels 
 Prototype built with AI & things.
